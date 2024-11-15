@@ -17,4 +17,4 @@
 - [Papa's Freezeria](https://www.coolmathgames.com/0-papas-freezeria) - a popular time management and restaurant simulation game.
 - [Suika Watermelon Game](https://www.coolmathgames.com/0-suika-watermelon-game) - A fun fruit management game.
 - [WorldGuessr](https://www.crazygames.com/game/worldguessr) - A casual quiz game.
-- [BitLife](https://bitlife-online.org/) - A life simulation game in which users experience a stranger's life from birth to end.
+- [BitLife](https://www.bitlife-online.org/) - A life simulation game in which users experience a stranger's life from birth to end.
